@@ -1,62 +1,62 @@
-class: center, middle
+﻿class: center, left
 
-# 讲义题目
+# <font color="blue">自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 周徐源   
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+元培学院
 
 ---
 
-## 第一部分
+## <font color="blue">目录
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+&nbsp;
 
----
+### <font color="red">1. 基本信息
+&nbsp; 
+&nbsp;
 
-## 插图
-
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+### <font color="red">2. 兴趣爱好
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## <font color="blue">基本信息
+
+### 年龄：20
+
+&nbsp;
+
+### 年级：15本
+
+&nbsp;
+
+### 专业：化学
 
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
 
-Display formula:
+---
 
-$$e^{i\pi} + 1 = 0$$
+## <font color="blue">兴趣爱好
+
+###  <font color="green">1. 徒步登山
+
+&nbsp;
+&nbsp;
+
+
+###  <font color="green">2. 养花种草
+
+&nbsp;
+&nbsp;
+
+
+###  <font color="green">3. 阅读书籍
 
 ---
 
 class: center, middle
 
-# 谢谢
+# <font color="red"> 谢谢观赏！
