@@ -1,6 +1,6 @@
-﻿class: center, middle
+﻿class: left, bottom
 
-<background color="sliver">
+background-image: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509434062811&di=3e371ed705a859e1d58bc9fb64a525fe&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F0bd162d9f2d3572c5b6a7be58113632762d0c37b.jpg
 
 # <font color="blue">自我介绍
 
