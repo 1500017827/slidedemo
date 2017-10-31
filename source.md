@@ -1,4 +1,4 @@
-﻿class: center, left
+﻿class: left, middle
 
 # <font color="blue">自我介绍
 
