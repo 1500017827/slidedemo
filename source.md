@@ -1,6 +1,6 @@
 ﻿class: left, bottom
 
-background-image: http://pic83.huitu.com/res/20160729/179425_20160729212420129600_1.jpg
+background-image: http://pic83.huitu.com/res/20160729(179425_20160729212420129600_1.jpg)
 
 # <font color="blue">自我介绍
 
