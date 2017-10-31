@@ -1,5 +1,7 @@
 ﻿class: center, middle
 
+<background color="sliver">
+
 # <font color="blue">自我介绍
 
 &nbsp;
