@@ -1,13 +1,16 @@
-﻿class: left, middle
+﻿class: center, middle
 
 # <font color="blue">自我介绍
 
 &nbsp;
 &nbsp;
+&nbsp;
 
-#### 周徐源   
+#### <font color="black">周徐源 
+&nbsp;
+&nbsp;
 
-元培学院
+#### <font color="black">元培学院
 
 ---
 
